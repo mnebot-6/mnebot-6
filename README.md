@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**mnebot-6/mnebot-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications engineer (telematics) based in Spain.
+By day I work on web development — Laravel, Vue 3, Tailwind.
+By night I build things that interest me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I believe in
+
+*I like building tools that fit into your life — not the other way around.*
+
+---
+
+### Tech I work with
+
+**Web**
+Laravel · Vue 3 · Tailwind CSS · JavaScript · PHP · CSS
+
+**Mobile**
+Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Java (Android)
+
+**Exploring**
+Arduino · Cybersecurity
+
+---
+
+### Projects
+
+**[Riptide](https://github.com/mnebot-6/Riptide)**
+A personal productivity app built with Kotlin Multiplatform (Android + iOS).
+Tasks live inside time blocks. Consistency grows a virtual aquarium.
+*KMP · Compose Multiplatform · DataStore · kotlinx-serialization*
+
+More coming — Arduino + mobile app to automate home plant watering is next on the list.
+
+---
+
+### Note
+
+This account reflects personal projects only.
+Work development lives on a separate Bitbucket account.
