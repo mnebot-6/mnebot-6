@@ -1,8 +1,7 @@
 # Hi, I'm Miguel 👋
 
-Telecommunications engineer (telematics) based in Spain.
-By day I work on web development — Laravel, Vue 3, Tailwind.
-By night I build things that interest me.
+Software engineer based in Valencia, Spain — telecommunications background, telematics specialization.
+I build cross-platform mobile apps and the web platforms behind them.
 
 ---
 
@@ -14,11 +13,14 @@ By night I build things that interest me.
 
 ### Tech I work with
 
-**Web**
-Laravel · Vue 3 · Tailwind CSS · JavaScript · PHP · CSS
-
 **Mobile**
-Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Java (Android)
+Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Android (Kotlin/Java) · NFC
+
+**Web & Backend**
+Laravel · PHP · Vue 3 · React · Tailwind CSS · JavaScript · MySQL
+
+**Infra**
+AWS (EC2) · Nginx · Linux
 
 **Exploring**
 Arduino · Cybersecurity
@@ -27,12 +29,14 @@ Arduino · Cybersecurity
 
 ### Projects
 
-**[Riptide](https://github.com/mnebot-6/Riptide)**
-A personal productivity app built with Kotlin Multiplatform (Android + iOS).
+**[Riptide](https://github.com/mnebot-6/Riptide)** — Personal productivity app in Kotlin Multiplatform (Android + iOS).
 Tasks live inside time blocks. Consistency grows a virtual aquarium.
 *KMP · Compose Multiplatform · DataStore · kotlinx-serialization*
 
-More coming — Arduino + mobile app to automate home plant watering is next on the list.
+**[Agora](https://github.com/mnebot-6/Agora)** — KMP app for managing activities and communities: giving visibility to groups, finding collaborators, and keeping your calendar organized without living inside WhatsApp threads.
+*KMP · Compose Multiplatform · OAuth*
+
+More coming — an Arduino + mobile app combo to automate home plant watering is next on the list.
 
 ---
 
