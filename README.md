@@ -29,12 +29,12 @@ Arduino · Cybersecurity
 
 ### Projects
 
+**[Agora](https://github.com/mnebot-6/Agora)** — KMP app for managing activities and communities: giving visibility to groups, finding collaborators, and keeping your calendar organized without living inside WhatsApp threads. In real use by a volleyball community (pick-up games, groups, shared calendar).
+*KMP · Compose Multiplatform · Supabase*
+
 **[Riptide](https://github.com/mnebot-6/Riptide)** — Personal productivity app in Kotlin Multiplatform (Android + iOS).
 Tasks live inside time blocks. Consistency grows a virtual aquarium.
 *KMP · Compose Multiplatform · DataStore · kotlinx-serialization*
-
-**[Agora](https://github.com/mnebot-6/Agora)** — KMP app for managing activities and communities: giving visibility to groups, finding collaborators, and keeping your calendar organized without living inside WhatsApp threads.
-*KMP · Compose Multiplatform · OAuth*
 
 More coming — an Arduino + mobile app combo to automate home plant watering is next on the list.
 
